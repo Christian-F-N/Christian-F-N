@@ -56,6 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
+  <img src="https://www.apachefriends.org/img/logo.svg" height="40" width="52" alt="XAMPP" />
 </p>
 
 <h3 align="center">Software de Diseño:</h3>
@@ -67,3 +68,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" width="52" alt="Behance" />
 </p>
+
+
+
+<h2 align="left">Estadísticas de GitHub:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-F-N&theme=great-gatsby&hide_border=false" alt="Estadísticas de GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estadísticas de GitHub" />
+</p>
+
+<h2 align="center">Trofeos de GitHub:</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Christian-F-N&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
+</p>
+
+<h2 align="center">Frase de Desarrollador al Azar:</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase de Desarrollador al Azar" />
+</p>
+
+<h2 align="center">Repositorio más Contribuido:</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Christian-F-N&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorio más Contribuido" />
+</p>
+
