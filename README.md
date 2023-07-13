@@ -85,6 +85,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-F-N&theme=great-gatsby&hide_border=false" alt="Estadísticas de GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estadísticas de GitHub" />
 </p>
 
 <h2 align="center">Trofeos de GitHub:</h2>
