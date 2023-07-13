@@ -13,7 +13,7 @@ Soy un estudiante de Ingeniería en Software apasionado por la programación y l
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="left">💻 Tecnologías:</h3>
-<h3 align="center">Lenguajes de Programación:</h3>
+<h3 align="center">Lenguajes de programación:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3" />
@@ -39,7 +39,7 @@ Soy un estudiante de Ingeniería en Software apasionado por la programación y l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue.js" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="center">Base de Datos:</h3>
+<h3 align="center">Bases de Datos:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="Microsoft SQL Server" />
@@ -57,7 +57,7 @@ Soy un estudiante de Ingeniería en Software apasionado por la programación y l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="center">Software de Diseño:</h3>
+<h3 align="center">Software de diseño:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="Photoshop" />
@@ -85,13 +85,13 @@ Soy un estudiante de Ingeniería en Software apasionado por la programación y l
   <img src="https://github-profile-trophy.vercel.app/?username=Christian-F-N&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="left">Frase de Desarrollador al Azar:</h3>
+<h3 align="left">Frase de desarrollador al azar:</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase de Desarrollador al Azar" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="left">Repositorio más Contribuido:</h3>
+<h3 align="left">Repositorio más contribuido:</h3>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Christian-F-N&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorio más Contribuido" />
