@@ -1,5 +1,6 @@
-<h1 align="left">¡Hola! Soy Christian Núñez</h1>
+
 <p align="right">
+  <h1 align="left">¡Hola! Soy Christian Núñez</h1>
   <img height="270px" width="450px" alt="GIF" src="https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-441846.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380">
 </p>
 
