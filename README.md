@@ -1,7 +1,7 @@
 
 
 <img  align="right" height="100px" width="450px" alt="GIF" src="https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg">
-
+<br/>
 <p align="center">
 Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
 
