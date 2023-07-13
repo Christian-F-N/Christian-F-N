@@ -1,5 +1,5 @@
 
-<img src="https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg" width="130">
+<img  align="right" height="270px" width="450px" alt="GIF" src="https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg">
 
 <h1 align="left">¡Hola! Soy Christian</h1>
 
