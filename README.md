@@ -1,11 +1,9 @@
 
-<div style="background-image: url('https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center;">
+<img src="https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg" width="30">
 
 <h1 align="left">¡Hola! Soy Christian</h1>
 
 <p align="center">Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
-</div>
-
 
 <h3 align="center">Encuéntrame en 🌐:</h3>
 <p align="center">
