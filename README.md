@@ -3,14 +3,12 @@
 <p align="center">Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Encuéntrame en:</h3>
-<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <p align="center">
   <a href="https://www.linkedin.com/in/christianunez593/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Tecnologías:</h3>
-<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Lenguajes de Programación:</h3>
 
 <p align="center">
@@ -27,7 +25,6 @@
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Frameworks:</h3>
-<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap" />
@@ -37,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue.js" />
 </p>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Base de Datos:</h3>
 
 <p align="center">
@@ -47,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="SQLite" />
 </p>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Servidores:</h3>
 
 <p align="center">
@@ -55,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
 </p>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Software de Diseño:</h3>
 
 <p align="center">
@@ -66,9 +63,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" width="52" alt="Behance" />
 </p>
 
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 
-
-<h2 align="left">Estadísticas de GitHub:</h2>
+<h3 align="left">Estadísticas de GitHub:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
@@ -77,20 +74,20 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estadísticas de GitHub" />
 </p>
-
-<h2 align="center">Trofeos de GitHub:</h2>
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
+<h3 align="center">Trofeos de GitHub:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Christian-F-N&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
 </p>
-
-<h2 align="center">Frase de Desarrollador al Azar:</h2>
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
+<h3 align="center">Frase de Desarrollador al Azar:</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase de Desarrollador al Azar" />
 </p>
-
-<h2 align="center">Repositorio más Contribuido:</h2>
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
+<h3 align="center">Repositorio más Contribuido:</h3>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Christian-F-N&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorio más Contribuido" />
