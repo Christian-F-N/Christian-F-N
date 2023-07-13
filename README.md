@@ -8,7 +8,7 @@
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="center">Tecnologías:</h3>
+<h3 align="left">Tecnologías:</h3>
 <h3 align="center">Lenguajes de Programación:</h3>
 
 <p align="center">
@@ -75,19 +75,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estadísticas de GitHub" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="center">Trofeos de GitHub:</h3>
+<h3 align="left">Trofeos de GitHub:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Christian-F-N&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="center">Frase de Desarrollador al Azar:</h3>
+<h3 align="left">Frase de Desarrollador al Azar:</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase de Desarrollador al Azar" />
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="center">Repositorio más Contribuido:</h3>
+<h3 align="left">Repositorio más Contribuido:</h3>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Christian-F-N&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorio más Contribuido" />
