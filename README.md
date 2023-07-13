@@ -118,3 +118,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Christian-F-N&icon=0&color=0" alt="Visitas al Perfil de GitHub" />
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Christian-F-N&icon=0&color=0)](https://visitcount.itsvg.in)
