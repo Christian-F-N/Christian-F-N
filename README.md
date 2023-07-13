@@ -1,6 +1,6 @@
 
 <br />
-<img  display= "flex" align="center" height="270px" width="450px" alt="GIF" src="https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg">
+<img align="center" height="270px" width="450px" alt="GIF" src="https://e0.pxfuel.com/wallpapers/845/796/desktop-wallpaper-awesome-amazing-civil-engineering-amazing.jpg">
 <br/>
 <h1 align="left">¡Hola! Soy Christian</h1>
 <p align="center">
