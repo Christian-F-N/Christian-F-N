@@ -1,13 +1,19 @@
+
+<div style="background-image: url('https://as1.ftcdn.net/v2/jpg/03/18/60/62/1000_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center;">
+
 <h1 align="left">¡Hola! Soy Christian</h1>
 
 <p align="center">Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
-<h3 align="center">Encuéntrame en:</h3>
+</div>
+
+
+<h3 align="center">Encuéntrame en 🌐:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/christianunez593/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
-<h3 align="left">Tecnologías:</h3>
+<h3 align="left">💻 Tecnologías:</h3>
 <h3 align="center">Lenguajes de Programación:</h3>
 
 <p align="center">
