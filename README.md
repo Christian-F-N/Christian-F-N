@@ -1,16 +1,16 @@
 <h1 align="left">¡Hola! Soy Christian</h1>
 
 <p align="center">Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
-
-<h2 align="center">Encuéntrame en:</h2>
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
+<h3 align="center">Encuéntrame en:</h3>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <p align="center">
   <a href="https://www.linkedin.com/in/christianunez593/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
-
-<h2 align="center">Tecnologías:</h2>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
+<h3 align="center">Tecnologías:</h3>
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Lenguajes de Programación:</h3>
 
 <p align="center">
@@ -25,9 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="TypeScript" />
 </p>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="center">Frameworks:</h3>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap" />
