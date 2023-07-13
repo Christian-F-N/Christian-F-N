@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
-  <img src="https://www.apachefriends.org/img/logo.svg" height="40" width="52" alt="XAMPP" />
+  <img src="https://www.apachefriends.org/img/logo.svg](https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="40" width="52" alt="XAMPP" />
 </p>
 
 <h3 align="center">Software de Diseño:</h3>
