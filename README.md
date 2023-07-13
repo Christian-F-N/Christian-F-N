@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! Soy Christian</h1>
+<h1 align="left">¡Hola! Soy Christian</h1>
 
 <p align="center">Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
 
 <h2 align="center">Encuéntrame en:</h2>
-
+<hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <p align="center">
   <a href="https://www.linkedin.com/in/christianunez593/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
@@ -54,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
-  <img src="https://www.apachefriends.org/img/logo.svg](https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="40" width="52" alt="XAMPP" />
 </p>
 
 <h3 align="center">Software de Diseño:</h3>
