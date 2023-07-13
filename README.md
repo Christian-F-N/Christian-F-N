@@ -70,9 +70,32 @@
   <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
 </p>
 
-<h3 align="center">Otras Herramientas:</h3>
+<h2 align="center">Otras Herramientas:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
+
+<h2 align="center"> 📊 Estadísticas de GITHUB:</h2>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MarceloIPV&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloIPV&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/M/M/blob/output/snake.svg" alt="Snake animation" />
+
+###
