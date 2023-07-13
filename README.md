@@ -2,14 +2,14 @@
 
 <p align="center">Soy un estudiante de Ingeniería en Software apasionado por la programación y la tecnología. He participado en proyectos en diferentes lenguajes y herramientas, lo que me ha permitido desarrollar habilidades de programación y trabajo en equipo. Además, tengo conocimientos en mantenimiento de computadoras y sistemas operativos, así como en redes y cableado estructurado. Busco una oportunidad laboral en la que pueda poner en práctica mis conocimientos y habilidades.</p>
 
-<h2 align="center">Encuéntrame en:</h2>
+<h2 align="center">Encuéntrame en 🌐 :</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianunez593/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<h2 align="center">Tecnologías:</h2>
+<h2 align="center">💻 Tecnologías:</h2>
 
 <h3 align="center">Lenguajes de Programación:</h3>
 
