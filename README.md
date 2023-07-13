@@ -9,9 +9,9 @@
   <a href="https://twitter.com/chrisgomelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<h2 align="center">💻 Tecnologías:</h2>
+<h2 align="left">💻 Tecnologías:</h2>
 
-<h3 align="center">Lenguajes de Programación:</h3>
+<h2 align="center">Lenguajes de Programación:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h3 align="center">Frameworks:</h3>
+<h2 align="center">Frameworks:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
-<h3 align="center">Base de Datos:</h3>
+<h2 align="center">Base de Datos:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure" />
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
 </p>
 
-<h3 align="center">Servidores:</h3>
+<h2 align="center">Servidores:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-<h3 align="center">Software de Diseño:</h3>
+<h2 align="center">Software de Diseño:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" />
@@ -81,66 +81,36 @@
 
 
 
+<h2 align="left">Estadísticas de GitHub:</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+</p>
 
+<h2 align="center">Trofeos de GitHub:</h2>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Christian-F-N&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
+</p>
 
-## 📊 Estadísticas de GitHub:
+<h2 align="center">Frase de Desarrollador al Azar:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Christian-F-N&theme=great-gatsby&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-N&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase de Desarrollador al Azar" />
+</p>
 
-## 🏆 Trofeos de GitHub
+<h2 align="center">Repositorio más Contribuido:</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=Christian-F-N&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Christian-F-N&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorio más Contribuido" />
+</p>
 
-### ✍️ Frase de Desarrollador al Azar
+<h2 align="center">Meme de Desarrollador al Azar:</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://rm.up.railway.app/" width="512px" alt="Meme de Desarrollador al Azar" />
+</p>
 
-### 🔝 Repositorio más Contribuido
-
-![](https://github-contributor-stats.vercel.app/api?username=Christian-F-N&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Meme de Desarrollador al Azar
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Christian-F-N&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Orgullosamente creado con GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
-
-<h2 align="center"> 📊 Estadísticas de GITHUB:</h2>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Christian-F-N&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-N&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
----
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/M/M/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Christian-F-N&icon=0&color=0" alt="Visitas al Perfil de GitHub" />
+</p>
